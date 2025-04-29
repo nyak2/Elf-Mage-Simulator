@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Frieren
+  - Demon
+  - Fern
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: bg
+    uniqueID: 2176230255
+    locked: 0
+  - name: foregroundFront
+    uniqueID: 1411429299
+    locked: 0
+  - name: UI
+    uniqueID: 443071871
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: foregroundSides
+    uniqueID: 4034946953
+    locked: 0
+  - name: foregroundBack
+    uniqueID: 916594609
+    locked: 0
